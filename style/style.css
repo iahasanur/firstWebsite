@@ -1,0 +1,36 @@
+h1{
+	font-family: Monospace, Cursive, "Times New Roman", serif;
+	text-align:center;
+	color:rgb(200, 220, 20);
+	opacity: 1;
+	width: 60%;
+	border: 2px solid rgb(255, 220, 220);
+	padding:1em;
+	margin-left:20%;
+	background-color: purple;
+	font-weight: 900;
+	border-radius: 1em;
+}
+article{
+	background-color: purple;
+	opacity: 1 ;
+}
+nav ul li{
+	display:inline-block;
+	list-style-type: None;
+	border:2px solid black;
+	
+}
+nav ul li a{
+	text-decoration: None;
+	border: 2px solid green;
+
+}
+nav ul{
+	border: 2px solid red;
+}
+nav{
+	border: 2px solid black;
+	height: 9vh;
+}
+
